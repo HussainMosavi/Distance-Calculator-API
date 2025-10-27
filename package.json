@@ -1,0 +1,10 @@
+{
+  "name": "distance-calculator-api",
+  "version": "1.0.0",
+  "description": "Simple Node.js API that calculates great-circle distance between two coordinates.",
+  "main": "distanceServer.js",
+  "scripts": {
+    "start": "node distanceServer.js"
+  },
+  "dependencies": {}
+}
